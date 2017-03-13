@@ -9,6 +9,7 @@ engineering.
 
 * [Camera](#camera)
 * [Electronic](#electronic)
+* [Phone](#phone)
 
 ## Camera
 
@@ -19,6 +20,10 @@ engineering.
 
 * [OpenDPS](https://github.com/kanflo/opendps) - alternative firmware for
   DPS5005 programmable power supply
+
+## Phone
+
+* [Lineage](http://lineageos.org/) - alternative rom for android phone
 
 ## Licence
 
