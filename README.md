@@ -7,6 +7,13 @@ engineering.
 
 ## Contents
 
+* [Camera](#camera)
+
+## Camera
+
+* [Magic lantern](http://www.magiclantern.fm/) - firmware add-on for Canon EOS
+  DSLR
+
 ## Licence
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
