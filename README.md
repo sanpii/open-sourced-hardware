@@ -8,6 +8,7 @@ engineering.
 ## Contents
 
 * [Camera](#camera)
+* [Computer](#computer)
 * [Electronic](#electronic)
 * [Phone](#phone)
 
@@ -15,6 +16,10 @@ engineering.
 
 * [Magic lantern](http://www.magiclantern.fm/) - firmware add-on for Canon EOS
   DSLR
+
+## Computer
+
+* [Libreboot](https://libreboot.org/) - free BIOS or UEFI replacement
 
 ## Electronic
 
