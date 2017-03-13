@@ -32,6 +32,8 @@ engineering.
 
 ## IoT
 
+* [CW Kalenji 700 gps](http://renaud.schleck.free.fr/montre_gps.php?lang=en) -
+  reverse engineering hardware and custom firmware for this GPS wristwatch
 * [misfit](http://msh-tools.com/misfit/) - open firmware and application for Misfit
   fitness tracker
 
