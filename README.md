@@ -8,11 +8,17 @@ engineering.
 ## Contents
 
 * [Camera](#camera)
+* [Electronic](#electronic)
 
 ## Camera
 
 * [Magic lantern](http://www.magiclantern.fm/) - firmware add-on for Canon EOS
   DSLR
+
+## Electronic
+
+* [OpenDPS](https://github.com/kanflo/opendps) - alternative firmware for
+  DPS5005 programmable power supply
 
 ## Licence
 
