@@ -50,6 +50,8 @@ engineering.
 
 ## Toy
 
+* [bluefluff](https://github.com/Jeija/bluefluff) - Reverse Engineering Furby
+  Connect's Bluetooth Protocol and Update Format
 * [Tamagotchi-Hack](https://github.com/natashenka/Tamagotchi-Hack) - Recent
   Tamagotchis are more than just pets
 
