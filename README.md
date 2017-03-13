@@ -10,6 +10,7 @@ engineering.
 * [Camera](#camera)
 * [Computer](#computer)
 * [Electronic](#electronic)
+* [IoT](#iot)
 * [Phone](#phone)
 
 ## Camera
@@ -27,6 +28,11 @@ engineering.
 
 * [OpenDPS](https://github.com/kanflo/opendps) - alternative firmware for
   DPS5005 programmable power supply
+
+## IoT
+
+* [misfit](http://msh-tools.com/misfit/) - open firmware and application for Misfit
+  fitness tracker
 
 ## Phone
 
