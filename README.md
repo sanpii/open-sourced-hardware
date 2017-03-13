@@ -1,5 +1,7 @@
 # Open sourced hardware
 
+[![Build Status](https://api.travis-ci.org/sanpii/open-sourced-hardware.svg?branch=master)](https://travis-ci.org/sanpii/open-sourced-hardware)
+
 > There is no good hardware without a free software.
 
 This is a list of unofficial free softwares (generally) made by reverse
