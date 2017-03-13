@@ -15,6 +15,7 @@ engineering.
 * [IoT](#iot)
 * [Network](#network)
 * [Phone](#phone)
+* [Toy](#toy)
 
 ## Camera
 
@@ -46,6 +47,11 @@ engineering.
 ## Phone
 
 * [Lineage](http://lineageos.org/) - alternative rom for android phone
+
+## Toy
+
+* [Tamagotchi-Hack](https://github.com/natashenka/Tamagotchi-Hack) - Recent
+  Tamagotchis are more than just pets
 
 ## Licence
 
