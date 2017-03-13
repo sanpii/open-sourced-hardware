@@ -20,6 +20,8 @@ engineering.
 ## Computer
 
 * [Libreboot](https://libreboot.org/) - free BIOS or UEFI replacement
+* [rpi-open-firmware](https://github.com/christinaa/rpi-open-firmware) - Open
+  source VPU side bootloader for Raspberry Pi
 
 ## Electronic
 
