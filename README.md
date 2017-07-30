@@ -50,7 +50,7 @@ engineering.
 
 ## Phone
 
-* [Lineage](http://lineageos.org/) - alternative rom for android phone
+* [Lineage](https://lineageos.org/) - alternative rom for android phone
 
 ## Toy
 
