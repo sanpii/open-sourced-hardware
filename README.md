@@ -19,7 +19,7 @@ engineering.
 
 ## Camera
 
-* [Magic lantern](http://www.magiclantern.fm/) - firmware add-on for Canon EOS
+* [Magic lantern](https://www.magiclantern.fm/) - firmware add-on for Canon EOS
   DSLR
 
 ## Computer
@@ -36,7 +36,7 @@ engineering.
   ARM, MSP430 or OpenRisc
 * [OpenDPS](https://github.com/kanflo/opendps) - alternative firmware for
   DPS5005 programmable power supply
-* [Sigrok](http://sigrok.org/) - a portable, cross-platform,
+* [Sigrok](https://sigrok.org/) - a portable, cross-platform,
   Free/Libre/Open-Source signal analysis software suite
 * [ts100](https://github.com/Ralim/ts100) - flexible Soldering iron control
   Firmware
