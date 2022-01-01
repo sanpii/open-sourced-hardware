@@ -30,7 +30,7 @@ engineering.
 
 ## Electronic
 
-* [Icetorm](http://www.clifford.at/icestorm/) - fully open source
+* [Icetorm](http://bygone.clairexen.net/icestorm/) - fully open source
   Verilog-to-Bitstream flow for Lattice iCE40 FPGAs
 * [OpenCores](https://opencores.org/) - open source hardware IP-cores such as
   ARM, MSP430 or OpenRisc
