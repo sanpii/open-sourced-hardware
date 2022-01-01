@@ -38,7 +38,7 @@ engineering.
   DPS5005 programmable power supply
 * [Sigrok](https://sigrok.org/) - a portable, cross-platform,
   Free/Libre/Open-Source signal analysis software suite
-* [ts100](https://github.com/Ralim/ts100) - flexible Soldering iron control
+* [IronOS](https://github.com/Ralim/IronOS) - flexible Soldering iron control
   Firmware
 
 ## IoT
