@@ -1,6 +1,6 @@
 # Open sourced hardware
 
-[![Build Status](https://api.travis-ci.org/sanpii/open-sourced-hardware.svg?branch=master)](https://travis-ci.org/sanpii/open-sourced-hardware)
+[![Github actions](https://github.com/sanpii/open-sourced-hardware/workflows/.github/workflows/ci.yml/badge.svg)](https://github.com/sanpii/open-sourced-hardware/actions?query=workflow%3A.github%2Fworkflows%2Fci.yml)
 
 > There is no good hardware without a free software.
 
