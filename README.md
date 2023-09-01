@@ -15,6 +15,7 @@ engineering.
 * [IoT](#iot)
 * [Network](#network)
 * [Phone](#phone)
+* [Player](#player)
 * [Toy](#toy)
 
 ## Camera
@@ -53,6 +54,11 @@ engineering.
 ## Phone
 
 * [Lineage](https://lineageos.org/) - alternative rom for android phone
+
+## Player
+
+* [Rockbox](https://www.rockbox.org/) - Rockbox is a free replacement firmware
+  for digital music players
 
 ## Toy
 
