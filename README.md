@@ -46,6 +46,9 @@ engineering.
 
 * [CW Kalenji 700 gps](http://renaud.schleck.free.fr/montre_gps.php?lang=en) -
   reverse engineering hardware and custom firmware for this GPS wristwatch
+* [OpenBeken](https://github.com/openshwprojects/OpenBK7231T_App) -
+    Open source firmware (Tasmota/Esphome replacement) for BK7231T, BK7231N,
+    BL2028N, T34, XR809, W800/W801, W600/W601 and BL602
 
 ## Network
 
