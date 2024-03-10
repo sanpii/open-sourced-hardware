@@ -48,6 +48,8 @@ engineering.
 
 * [Anduril](https://github.com/ToyKeeper/anduril/) - user interface for
   flashlights
+* [tyrfing](https://github.com/simmsb/tyrfing) - flashlight firmware, written in
+  rust
 
 ## IoT
 
