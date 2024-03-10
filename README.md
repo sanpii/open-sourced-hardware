@@ -12,6 +12,7 @@ engineering.
 * [Camera](#camera)
 * [Computer](#computer)
 * [Electronic](#electronic)
+* [Gadgets](#gadgets)
 * [IoT](#iot)
 * [Network](#network)
 * [Phone](#phone)
@@ -42,6 +43,11 @@ engineering.
   Free/Libre/Open-Source signal analysis software suite
 * [IronOS](https://github.com/Ralim/IronOS) - flexible Soldering iron control
   Firmware
+
+## Gadgets
+
+* [Anduril](https://github.com/ToyKeeper/anduril/) - user interface for
+  flashlights
 
 ## IoT
 
