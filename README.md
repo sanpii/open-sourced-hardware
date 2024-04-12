@@ -48,6 +48,9 @@ engineering.
 
 * [Anduril](https://github.com/ToyKeeper/anduril/) - user interface for
   flashlights
+* [glow-control](https://github.com/cgorski/glow-control) - Aa Rust-based
+  command-line interface (CLI) and library for controlling Twinkly programmable
+  LED controllers
 * [tyrfing](https://github.com/simmsb/tyrfing) - flashlight firmware, written in
   rust
 * [xled](https://github.com/scrool/xled) - Unofficial control for Twinkly -
