@@ -50,6 +50,8 @@ engineering.
   flashlights
 * [tyrfing](https://github.com/simmsb/tyrfing) - flashlight firmware, written in
   rust
+* [xled](https://github.com/scrool/xled) - Unofficial control for Twinkly -
+  Smart Decoration LED lights
 
 ## IoT
 
