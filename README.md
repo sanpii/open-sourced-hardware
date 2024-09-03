@@ -23,6 +23,8 @@ engineering.
 
 * [Magic lantern](https://www.magiclantern.fm/) - firmware add-on for Canon EOS
   DSLR
+* [MagicLanternGoPro](https://github.com/KonradIT/MagicLanternGoPro) - Magic
+  Lantern for GoPro HERO3 Black / HERO3+ Black / HERO3+ Silver cameras
 
 ## Computer
 
