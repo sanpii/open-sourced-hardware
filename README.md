@@ -24,7 +24,7 @@ engineering.
 * [CHDK](https://chdk.fandom.com) - Unleash the power in your Canon PowerShot!
 * [Magic lantern](https://www.magiclantern.fm/) - firmware add-on for Canon EOS
   DSLR
-* [MagicLanternGoPro](https://github.com/KonradIT/MagicLanternGoPro) - Magic
+* [MagicLanternGoPro](https://github.com/ajonauta/MagicLanternGoPro) - Magic
   Lantern for GoPro HERO3 Black / HERO3+ Black / HERO3+ Silver cameras
 
 ## Computer
